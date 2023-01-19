@@ -41,6 +41,12 @@ body {
    z-index: 10000;
 }
 
+
+.logo{
+font-size: .6rem;
+color: #f9bc603e;
+}
+
 .clock .hour,
 .clock .min,
 .clock .sec {
